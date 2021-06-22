@@ -1,2 +1,2 @@
 # Trust-and-IncomeIneq_thesis
-Master Thesis - Trust and Income Inequality: A causal analysis across emerging economies
+Master Thesis - Trust and Income Inequality: An Analysis of Emerging Economies
